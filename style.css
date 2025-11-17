@@ -3,6 +3,10 @@ body {
     font-family: system-ui, -apple-system, 'Helvetica Neue', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 nav {
 display: flex;
 flex-direction: row;
